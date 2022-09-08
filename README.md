@@ -1,5 +1,5 @@
-# Recitation-013-Team-5 Merge Conflict Edit
-## Project Team Members: 
+# Project Team Members: Aiden Bub
+# Recitation-013-Team-5
 ## Drew Boynton - dmboynton56
 ## Saragam Gadal - SaragamG
 ## Aiden Bub - aidenbub
